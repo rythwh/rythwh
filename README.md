@@ -12,10 +12,10 @@
 <h3>Games I've Worked On</h3>
 <p float="left">
   
-  [<img align="middle" height=64 src="https://img.itch.zone/aW1hZ2UvMjIzMTMvMjM5NTgwLnBuZw==/original/fUSKbo.png">](https://rywh.itch.io/snowship)
   [<img align="middle" height=64 src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1484280/3686bd95b89f7c259d8ce6158e635b933a26423a/header.jpg">](https://store.steampowered.com/app/1484280/Demeo/)
   [<img align="middle" height=64 src="https://play-lh.googleusercontent.com/yC9GTP9YuXKwexGWVoryTLbDxOjD6Ug1s0O_0zUbbxrMFKB1rZSPPimm6PtllblmnPxw">](https://apps.apple.com/us/app/rubiks-match-3-cube-puzzle/id6472882731)
   [<img align="middle" height=64 src="https://play-lh.googleusercontent.com/1Tw07BQVpDUY1peeauDxj6JnDwz-DR_0j1eUvomr6wAR9NOogFGs_Q0NdrDErjcvhjQ3=w240-h480-rw">](https://apps.apple.com/se/app/geoguessr-go/id6474603680)
+  [<img align="middle" height=64 src="https://img.itch.zone/aW1hZ2UvMjIzMTMvMjM5NTgwLnBuZw==/original/fUSKbo.png">](https://rywh.itch.io/snowship)
 </p>
 
 <h3>Connect</h3>
